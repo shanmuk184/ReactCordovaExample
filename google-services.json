@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41920942283",
+    "firebase_url": "https://testpushnotification-1f20e.firebaseio.com",
+    "project_id": "testpushnotification-1f20e",
+    "storage_bucket": "testpushnotification-1f20e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41920942283:android:f7d57d1b786698fabbcb4e",
+        "android_client_info": {
+          "package_name": "com.example.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41920942283-7l515e19qf9ok1d6r9ss0g8h9v86sas6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1k_mtryHfAukQmtn3vJ3AuhIyHKKxuJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41920942283-7l515e19qf9ok1d6r9ss0g8h9v86sas6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
